@@ -1,1 +1,1 @@
-print('ALan nuevo')
+print('ALan nuevo  ')
