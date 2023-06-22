@@ -1,1 +1,3 @@
-print('hola 3 v2')
+print('hola 3 vlogin')
+mivaraible = 'alan','gomez'
+print(mivaraible)
